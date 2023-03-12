@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913867733624",
+    "project_id": "aponwola-96fea",
+    "storage_bucket": "aponwola-96fea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913867733624:android:a3fee7f8a8fe483c380b8d",
+        "android_client_info": {
+          "package_name": "com.example.aponwola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913867733624-j19ohgi5d2pbqccre2i068ltf2hit78q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiKXxnMNbcxRMv_usuo7rP0_juAmICiGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913867733624-j19ohgi5d2pbqccre2i068ltf2hit78q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
